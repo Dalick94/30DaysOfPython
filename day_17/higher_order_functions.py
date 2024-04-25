@@ -186,4 +186,3 @@ def get_last_ten_countries(countries):
         return countries 
     else: return countries[-10:]
 
-#16.
